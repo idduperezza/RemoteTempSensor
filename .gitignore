@@ -1,0 +1,10 @@
+BUILD
+.mbed
+SX1276GenericLib
+RadioShuttleLib
+OLED_SSD1306
+NVProperty
+MBED_USBDeviceHT
+mbed-os
+HELIOS_Si7021
+BufferedSerial
